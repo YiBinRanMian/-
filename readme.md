@@ -74,11 +74,11 @@ attributes #0 = { noinline norecurse nounwind optnone ssp uwtable "correctly-rou
 
 ![image-20191018170120245](./image-20191018170120245.png)
 
-%3 在 <label>:4 紫框处被第二次赋值
+%3 在紫框处被第二次赋值
 
 ![image-20191018170437701](./image-20191018170437701.png)
 
-%2 在 <label>:8 紫框处被第二次赋值
+%2 在紫框处被第二次赋值
 
 # 总结
 
